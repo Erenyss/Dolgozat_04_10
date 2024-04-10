@@ -1,4 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+/*
+Lieszkofszki Norbert
+1/I/N
+2024.04.10.
+*/
+
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using System;
 using System.IO;
