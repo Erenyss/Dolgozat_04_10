@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ClassLibrary_Konyv",
+      "appliesTo": "ClassLibrary_Konyv/ClassLibrary_Konyv.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
